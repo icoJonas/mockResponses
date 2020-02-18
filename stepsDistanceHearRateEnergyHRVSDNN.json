@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "Steps Count",
+    "enumCase": "stepCount"
+  },
+  {
+    "id": 1,
+    "name": "Distance Walking/Running",
+    "enumCase": "distanceWalkingRunning"
+  },
+  {
+    "id": 2,
+    "name": "Heart Rate",
+    "enumCase": "heartRate"
+  },
+  {
+    "id": 3,
+    "name": "Energy Burned",
+    "enumCase": "activeEnergyBurned"
+  },
+  {
+    "id": 4,
+    "name": "Heart Rate Variability SDNN",
+    "enumCase": "heartRateVariabilitySDNN"
+  }
+]
